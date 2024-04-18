@@ -8,7 +8,7 @@ Features
 Data Extraction: SQL queries to extract relevant financial data over specific time frames, focusing on investment performance and market movements.
 Performance Analysis: Evaluation of asset returns, including daily returns and risk-adjusted returns, across multiple periods (12M, 18M, 24M).
 Portfolio Rebalancing: Recommendations for portfolio adjustments based on performance metrics and risk assessment to optimize the client's financial strategy.
-Visualization: (If applicable) Visual representations of data trends and account performance over time, enhancing the interpretability of complex financial data.
+Visualization: Visual representations of data trends and account performance over time, enhancing the interpretability of complex financial data.
 
 Dataset
 
